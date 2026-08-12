@@ -1,3 +1,5 @@
+🔗 **Canlı Uygulama:** https://heart-disease-ml-abcueypur6hpd9ihnmbrhv.streamlit.app/
+
 # Kalp Hastalığı Tahmini
 
 Bu projede, klinik hasta verileri kullanılarak kalp hastalığı riskini tahmin eden makine öğrenmesi modelleri geliştirilmiştir.
@@ -80,3 +82,9 @@ Ardından Jupyter Notebook veya VS Code üzerinden aşağıdaki notebook dosyas�
 ```text
 notebooks/heart_disease_analysis.ipynb
 ```
+## Web Uygulaması
+
+Streamlit arayüzünü çalıştırmak için proje klasöründe aşağıdaki komutu kullanın:
+
+```bash
+python -m streamlit run src/app.py
